@@ -13,7 +13,7 @@
 🏅 [3x Salesforce Certified](https://www.salesforce.com/trailblazer/clairetorrez)
 
 # ⚙ Salesforce Technologies
-<table width="100%" style="border:0px;">
+<table width="90%" style="border:0px;">
   <tr style="border:0px;" >
     <td align="center" style="border:0px;">
         <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/apex_database/fab27840d343cc13934e9cf1f4a41dbc_badge.png" alt="Apex" style="width: 70px;"/>
@@ -28,11 +28,14 @@
   </tr>
 </table>
 
+<br></br>
+
 # ☁ Salesforce Credentials
 
-<div align="center"> 
+<div align="left"> 
   <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtz&oid=00DF0000000gZsu&lastMod=1617268528000" height="70" alt="Platform Developer 1"/>
 </div>
+<br></br>
 
 # 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
@@ -49,6 +52,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+<br></br>
 
 # Salesforce Community
 <div align="left">

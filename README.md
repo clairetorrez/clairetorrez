@@ -10,7 +10,7 @@
 
 🔭 I’m currently a student at [Cloud Code Academy](https://cloudcodeacademy.com)
 
-🏅 [3x Salesforce Certified](https://www.salesforce.com/trailblazer/clairetorrez)
+🏅 [3x Certified Salesforce Professional](https://www.salesforce.com/trailblazer/clairetorrez)
 
 # ⚙ Salesforce Technologies
 <table width="90%" style="border:0px;">

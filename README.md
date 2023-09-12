@@ -6,7 +6,7 @@
 
 </div>
 
-📚 I’m currently learning Apex, HTML, JavaScript, CSS @ [Cloud Code Academy](https://cloudcodeacademy.com)
+📚 I’m currently learning Apex, JavaScript, HTML, CSS @ [Cloud Code Academy](https://cloudcodeacademy.com)
 
 🏅 [3x Certified Salesforce Professional](https://www.salesforce.com/trailblazer/clairetorrez)
 
@@ -41,13 +41,5 @@
 | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
 | ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) | ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) | ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) |
 | ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
-
- 
-# <h3 align="left">👥 Salesforce Community</h3>
-<div align="left">
-  <a href="https://join.slack.com/t/salesforcementor/shared_invite/zt-1a8xh8af6-ujsKuIAZ14YpBQHAmMFaQA" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Salesforce Mentor Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
-  </a>
-</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

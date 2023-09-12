@@ -2,14 +2,11 @@
 <h4 align="left">Product Analyst and Salesforce Developer 👩‍💻 </h4>
 <div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clairetorrez/)
-
 </div>
 
 📚 I’m currently learning Apex, JavaScript, HTML, CSS @ [Cloud Code Academy](https://cloudcodeacademy.com)
 
 🏅 [3x Certified Salesforce Professional](https://www.salesforce.com/trailblazer/clairetorrez)
-
 
 # <h3 align="left">⚙ Salesforce Technologies</h3>
 <table width="90%" style="border:0px;">

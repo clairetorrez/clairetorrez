@@ -1,6 +1,6 @@
 
 
-<h1 align="left">Hi, I'm Claire Torrez  🌺 </h1>
+<h2 align="left">Hi, I'm Claire Torrez  🌺 </h2>
 <h4 align="left">Product Analyst and Salesforce Developer 👩‍💻 </h4>
 <div align="left">
 
@@ -14,7 +14,7 @@
 
 <br>
 
- <h2 align="left">⚙ Salesforce Technologies</h2>
+ <h3 align="left">⚙ Salesforce Technologies</h3>
 <table width="90%" style="border:0px;">
   <tr style="border:0px;" >
     <td align="center" style="border:0px;">
@@ -32,9 +32,7 @@
 
 <br> 
 
-<h2 align="left">☁ Salesforce Credentials</h2>
-
-
+<h3 align="left">☁ Salesforce Credentials</h3>
 <div align="left"> 
   <img src="Platform-Developer.png" height="70" alt="Platform Developer 1"/>
   <img src="App-Builder.png" height="70" alt="App Builder 1"/>
@@ -42,8 +40,7 @@
 </div>
 
 <br> 
-
-<h2 align="left">💻 Tech Stack</h2>
+<h3 align="left">💻 Tech Stack</h3>
 
 | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
 |:---:|:---:|:---:|
@@ -52,7 +49,7 @@
 | ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 
 <br> 
-<h2 align="left">👥 Salesforce Community</h2>
+<h3 align="left">👥 Salesforce Community</h3>
 <div align="left">
   <a href="https://join.slack.com/t/salesforcementor/shared_invite/zt-1a8xh8af6-ujsKuIAZ14YpBQHAmMFaQA" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Salesforce Mentor Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />

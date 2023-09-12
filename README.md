@@ -1,6 +1,6 @@
 
 
-<h2 align="left">Hi, I'm Claire Torrez  🌺 </h2>
+<h1 align="left">Hi, I'm Claire Torrez  🌺 </h1>
 <h4 align="left">Product Analyst and Salesforce Developer 👩‍💻 </h4>
 <div align="left">
 
@@ -8,11 +8,13 @@
 
 </div>
 
-📚 I’m currently a student at [Cloud Code Academy](https://cloudcodeacademy.com)
+📚 Currently a student at [Cloud Code Academy](https://cloudcodeacademy.com)
 
 🏅 [3x Certified Salesforce Professional](https://www.salesforce.com/trailblazer/clairetorrez)
 
-# ⚙ Salesforce Technologies
+<br>
+
+ <h2 align="left">⚙ Salesforce Technologies</h2>
 <table width="90%" style="border:0px;">
   <tr style="border:0px;" >
     <td align="center" style="border:0px;">
@@ -28,7 +30,10 @@
   </tr>
 </table>
 
-# ☁ Salesforce Credentials
+<br> 
+
+<h2 align="left">☁ Salesforce Credentials</h2>
+
 
 <div align="left"> 
   <img src="Platform-Developer.png" height="70" alt="Platform Developer 1"/>
@@ -36,20 +41,18 @@
   <img src="Administrator.png" height="70" alt="Administrator 1"/>
 </div>
 
-# 💻 Tech Stack
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
-![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<br> 
 
-# 👥 Salesforce Community
+<h2 align="left">💻 Tech Stack</h2>
+
+| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
+|:---:|:---:|:---:|
+| ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
+| ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) | ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) | ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) |
+| ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+
+<br> 
+<h2 align="left">👥 Salesforce Community</h2>
 <div align="left">
   <a href="https://join.slack.com/t/salesforcementor/shared_invite/zt-1a8xh8af6-ujsKuIAZ14YpBQHAmMFaQA" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Salesforce Mentor Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />

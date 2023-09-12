@@ -1,6 +1,4 @@
-
-
-<h2 align="left">Hi, I'm Claire Torrez  🌺 </h2>
+<h2 align="left">Hi, I'm Claire 🌺 </h2>
 <h4 align="left">Product Analyst and Salesforce Developer 👩‍💻 </h4>
 <div align="left">
 
@@ -8,7 +6,7 @@
 
 </div>
 
-📚 Currently a student at [Cloud Code Academy](https://cloudcodeacademy.com)
+📚 I’m currently learning Apex, HTML, JavaScript, CSS @ [Cloud Code Academy](https://cloudcodeacademy.com)
 
 🏅 [3x Certified Salesforce Professional](https://www.salesforce.com/trailblazer/clairetorrez)
 
@@ -51,5 +49,7 @@
     <img src="https://img.shields.io/static/v1?message=Salesforce Mentor Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
   </a>
 </div>
+
+# <p align="left"> <img src="https://komarev.com/ghpvc/?username=clairetill&label=Profile%20views&color=0e75b6&style=flat" alt="clairetorrez" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

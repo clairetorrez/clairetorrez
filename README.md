@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm Claire <img src="astro.webp" height="70" alt="Astro"/> </h2>
+<h2 align="left">Hi, I'm Claire <img src="Astro.webp" height="70" alt="Astro"/> </h2>
 <h4 align="left">Product Analyst and Salesforce Developer 👩‍💻 </h4>
 <div align="left">
 </div>
@@ -7,7 +7,7 @@
 
 🏅 [3x Certified Salesforce Professional](https://www.salesforce.com/trailblazer/clairetorrez)
 
-# <h3 align="left"><img src="Tech.png" height="20" alt="Tech"/> Salesforce Technologies</h3>
+# <h3 align="left"><img src="Tech.png" height="20" alt="Tech"/> <span> Salesforce Technologies</h3>
 <table width="90%" style="border:0px;">
   <tr style="border:0px;" >
     <td align="center" style="border:0px;">
@@ -23,7 +23,7 @@
   </tr>
 </table>
 
-# <h3 align="left">☁ Salesforce Credentials</h3>
+# <h3 align="left"><img src="Credential.png" height="20" alt="Credential"/> <span> Salesforce Credentials</h3>
 <div align="left"> 
   <img src="Platform-Developer.png" height="70" alt="Platform Developer 1"/>
   <img src="App-Builder.png" height="70" alt="App Builder 1"/>

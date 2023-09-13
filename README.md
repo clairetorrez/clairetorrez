@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm Claire Torrez <img src="Astro.webp" height="70" alt="Astro"/> </h2>
+<h2 align="left">Hi, I'm Claire <img src="Astro.webp" height="70" alt="Astro"/> </h2>
 <h4 align="left">Product Analyst and Salesforce Developer <img src="FlowerParrot.gif" height="20" alt="Flower Parrot"/></h4>
 <div align="left">
 </div>

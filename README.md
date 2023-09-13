@@ -33,7 +33,7 @@
 # <h3 align="left"><img src="TechStack.png" height="20" alt="Tech Stack"/> <span> Tech Stack</h3>
 
 ```javascript
-Technology: Java, Javascript, HTML5, CSS3, Bootstrap, Postman
+Technology: Java, JavaScript, HTML5, CSS3, Bootstrap, Postman
 Tools: Figma, Canva, Jira, Confluence, Notion
 ```
 

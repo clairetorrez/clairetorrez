@@ -1,5 +1,5 @@
-<h2 align="left">Hi, I'm Claire <img src="Astro.webp" height="70" alt="Astro"/> </h2>
-<h4 align="left">Product Analyst and Salesforce Developer 👩‍💻 </h4>
+<h2 align="left">Hi, I'm Claire Torrez <img src="Astro.webp" height="70" alt="Astro"/> </h2>
+<h4 align="left">Product Analyst and Salesforce Developer <img src="FlowerParrot.gif" height="20" alt="Flower Parrot"/></h4>
 <div align="left">
 </div>
 
@@ -32,10 +32,9 @@
 
 # <h3 align="left"><img src="TechStack.png" height="20" alt="Tech Stack"/> <span> Tech Stack</h3>
 
-| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
-|:---:|:---:|:---:|
-| ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
-| ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) | ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) | ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) |
-| ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+```javascript
+Technology: Java, Javascript, HTML5, CSS3, Bootstrap, Postman
+Tools: Figma, Canva, Jira, Confluence, Notion
+```
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

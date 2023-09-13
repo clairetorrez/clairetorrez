@@ -7,7 +7,7 @@
 
 🏅 [3x Certified Salesforce Professional](https://www.salesforce.com/trailblazer/clairetorrez)
 
-# <h3 align="left">⚙ Salesforce Technologies</h3>
+# <h3 align="left"><img src="Tech.png" height="20" alt="Tech"/> Salesforce Technologies</h3>
 <table width="90%" style="border:0px;">
   <tr style="border:0px;" >
     <td align="center" style="border:0px;">

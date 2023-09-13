@@ -30,7 +30,7 @@
   <img src="Administrator.png" height="70" alt="Administrator 1"/>
 </div>
 
-# <h3 align="left">💻 Tech Stack</h3>
+# <h3 align="left"><img src="TechStack.png" height="20" alt="Tech Stack"/> <span> Tech Stack</h3>
 
 | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
 |:---:|:---:|:---:|

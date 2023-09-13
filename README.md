@@ -3,7 +3,7 @@
 <div align="left">
 </div>
 
-📚 I’m currently learning Apex, JavaScript, HTML, CSS @ [Cloud Code Academy](https://cloudcodeacademy.com)
+📚 I’m currently learning Apex, JavaScript, HTML, and CSS @ [Cloud Code Academy](https://cloudcodeacademy.com)
 
 🏅 [3x Certified Salesforce Professional](https://www.salesforce.com/trailblazer/clairetorrez)
 

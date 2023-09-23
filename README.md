@@ -1,9 +1,7 @@
-<h2 align="left">Hi, I'm Claire <img src="Astro.webp" height="70" alt="Astro"/> </h2>
-<h4 align="left">Product Analyst and Salesforce Developer </h4>
+<h2 align="left">Hi, I'm Claire <img src="Astro.webp" height="50" alt="Astro"/> </h2>
+<h5 align="left">Product Analyst and Salesforce Developer </h5>
 <div align="left">
 </div>
-
-📚 I’m currently learning Apex, JavaScript, HTML, and CSS @ [Cloud Code Academy](https://cloudcodeacademy.com)
 
 🏅 [3x Certified Salesforce Professional](https://www.salesforce.com/trailblazer/clairetorrez)
 

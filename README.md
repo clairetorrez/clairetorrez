@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm Claire <img src="Astro.webp" height="50" alt="Astro"/> </h2>
+<h2 align="left">Hi, my name is Claire <img src="Astro.webp" height="50" alt="Astro"/> </h2>
 <h5 align="left">Product Analyst and Salesforce Developer </h5>
 <div align="left">
 </div>

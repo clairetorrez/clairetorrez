@@ -31,7 +31,7 @@
 
 ```javascript
 Technology: Java, JavaScript, HTML5, CSS3, Bootstrap, Postman
-Tools: VS Code, Excel, Salesforce CLI, Github, Figma, Canva, Jira, Confluence, Notion
+Tools: Figma, Canva, Jira, Confluence, Notion
 ```
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

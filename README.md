@@ -1,8 +1,8 @@
 <h2 align="left">Hi, I'm Claire <img src="Astro.webp" height="45" alt="Astro"/> </h2>
 
-👩‍💻 Product Analyst and Salesforce Developer
+👩‍💻 Salesforce and JavaScript Developer
 <br></br>
-🏅 [3x Certified Salesforce Professional](https://www.salesforce.com/trailblazer/clairetorrez)
+🏅 [3x Certified](https://www.salesforce.com/trailblazer/clairetorrez)
 
 # <h3 align="left"><img src="Tech.png" height="20" alt="Tech"/> <span> Salesforce Technologies</h3>
 <table width="90%" style="border:0px;">
@@ -30,7 +30,7 @@
 # <h3 align="left"><img src="TechStack.png" height="20" alt="Tech Stack"/> <span> Tech Stack</h3>
 
 ```javascript
-Technology: Java, JavaScript, HTML5, CSS3, Bootstrap, Postman
+Technology: JavaScript, HTML5, CSS3, Bootstrap, Postman
 Tools: Figma, Canva, Jira, Confluence, Notion
 ```
 

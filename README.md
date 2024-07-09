@@ -1,4 +1,6 @@
-<h3 align="left">Hi, I'm Claire Torrez</h3
+<h3 align="left">Hi I'm Claire Torrez, welcome to my page</h3 
+
+I'm a Certified Salesforce Consultant currently adventuring into the world of Cloud Computing.
 
 📊 GitHub Stats
 <div align="left">

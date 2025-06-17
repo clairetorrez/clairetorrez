@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Claire 👋  
+🛠️ Backend Developer | 🐍 Python & 🦫 Go Enthusiast | Systems & Security Focused
 
-<!--
-**clairetorrez/clairetorrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 What I'm About
 
-Here are some ideas to get you started:
+- Writing clean, maintainable code that’s production-ready
+- Building fast, secure, and scalable backend systems
+- Exploring systems architecture, DevOps, and containerization
+- Constantly learning and sharing knowledge along the way
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Let's Connect
+
+Whether you're looking for collaborators, feedback, or just want to chat backend engineering, feel free to reach out! I'm especially excited about Go, security, and high-impact systems work.
+
+💼 [LinkedIn](https://www.linkedin.com/in/clairetorrez)

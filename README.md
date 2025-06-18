@@ -1,7 +1,7 @@
 # Hi, I'm Claire 👋  
 🛠️ Backend Developer | 🐍 Python & 🦫 Go Enthusiast | Systems & Security Focused
 
-## 💡 What I'm About
+## 💡 I enjoy
 
 - Writing clean, maintainable code that’s production-ready
 - Building fast, secure, and scalable backend systems

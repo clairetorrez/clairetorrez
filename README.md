@@ -3,7 +3,7 @@
 
 ## 💡 I enjoy
 
-- Writing clean, maintainable code that’s production-ready
+- Writing clean, maintainable code
 - Building fast, secure, and scalable backend systems
 - Exploring systems architecture, DevOps, and containerization
 - Constantly learning and sharing knowledge along the way

@@ -1,5 +1,5 @@
 # Hi, I'm Claire 👋  
-🛠️ Backend Developer | 🐍 Python & 🦫 Go Enthusiast | Systems & Security Focused
+🛠️ Backend Developer | 🦫 Go Enthusiast | Systems & Security Focused
 
 ## 💡 I enjoy
 

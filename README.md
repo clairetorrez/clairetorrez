@@ -1,5 +1,5 @@
 # Hi, I'm Claire 👋  
-🛠️ Backend Developer in Training | 🦫 Go Enthusiast | Systems & Security Focused
+🛠️ Backend Developer in Training at https://www.boot.dev/u/ctorr | 🦫 Go Enthusiast | Systems & Security Focused
 
 ## 💡 I enjoy
 

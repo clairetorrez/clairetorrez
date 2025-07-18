@@ -1,5 +1,5 @@
 # Hi, I'm Claire 👋  
-🛠️ Backend Developer in Training at https://www.boot.dev/u/ctorr | Python and 🦫 Go Enthusiast | Systems & Security Focused
+🛠️ Software Engineer - Python and 🦫 Go Enthusiast | Systems & Security Focused
 
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/f3ddc2da-3cce-47d4-8f4b-a826f29c37f5/thumbnail" >

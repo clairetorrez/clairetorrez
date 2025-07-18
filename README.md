@@ -1,10 +1,6 @@
 # Hi, I'm Claire 👋  
 🛠️ Software Engineer - Python and 🦫 Go Enthusiast | Systems & Security Focused
 
-<p align="left">
-  <img src="https://api.boot.dev/v1/users/public/f3ddc2da-3cce-47d4-8f4b-a826f29c37f5/thumbnail" >
-</p>
-
 ## 💡 I enjoy
 
 - Writing clean, maintainable code
